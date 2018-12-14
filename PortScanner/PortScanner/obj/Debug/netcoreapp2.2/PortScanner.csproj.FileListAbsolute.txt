@@ -1,0 +1,11 @@
+C:\Code\Git\PortScan\PortScanner\PortScanner\bin\Debug\netcoreapp2.2\PortScanner.deps.json
+C:\Code\Git\PortScan\PortScanner\PortScanner\bin\Debug\netcoreapp2.2\PortScanner.runtimeconfig.json
+C:\Code\Git\PortScan\PortScanner\PortScanner\bin\Debug\netcoreapp2.2\PortScanner.runtimeconfig.dev.json
+C:\Code\Git\PortScan\PortScanner\PortScanner\bin\Debug\netcoreapp2.2\PortScanner.dll
+C:\Code\Git\PortScan\PortScanner\PortScanner\bin\Debug\netcoreapp2.2\PortScanner.pdb
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.csprojAssemblyReference.cache
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.csproj.CoreCompileInputs.cache
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.AssemblyInfoInputs.cache
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.AssemblyInfo.cs
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.dll
+C:\Code\Git\PortScan\PortScanner\PortScanner\obj\Debug\netcoreapp2.2\PortScanner.pdb
